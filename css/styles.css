@@ -126,6 +126,10 @@
 	padding: 10px 0 10px 34px;
 	margin: 57px 48px 35px 0;
 }
+.search:focus {
+	outline:2px #2F2F2F solid;
+	outline-offset: 2px;
+}
 .banner {
 	width: 908px;
 	height: 448px;
